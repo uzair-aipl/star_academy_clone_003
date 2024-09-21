@@ -1,2 +1,2 @@
-var app = 'hii';
-const global = 'abc';
+var app = 'Uzair';
+const global = 'Rishit';
